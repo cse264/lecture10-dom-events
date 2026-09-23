@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    line-height: 1.5;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+#outer {
+    background-color: #d0e4ff;
+    padding: 30px;
+}
+
+#inner {
+    background-color: #ffe0b3;
+    padding: 30px;
+}
+
+li.done {
+    text-decoration: line-through;
+    color: gray;
+}
